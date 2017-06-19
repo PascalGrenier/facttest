@@ -1,0 +1,31 @@
+a {
+	cursor: pointer;
+}
+
+.spacer {
+		margin-top:20px;
+}
+
+.table-hover > tbody > tr:hover > td,
+.table-hover > tbody > tr:hover > th {
+	background-color:#4288CA;
+	color:#ffffff;
+	cursor: pointer;
+}
+
+
+.clickable {
+	cursor:pointer;
+}
+
+.table {
+	text-align:left;
+}
+
+.nbr {
+	text-align:center;
+}
+
+.mte {
+	text-align:right;
+}
